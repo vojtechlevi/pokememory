@@ -1,0 +1,25 @@
+@media only screen and (min-width: 1500px) {
+  #game .history button {
+    margin-top: 1%;
+  }
+
+  #game {
+    margin-top: 7%;
+  }
+  #game .container {
+    width: 30%;
+    margin-top: -10%;
+  }
+
+  #menu .container {
+    width: 30%;
+  }
+
+  #player-menu .container {
+    width: 30%;
+  }
+
+  #computer-menu .container {
+    width: 30%;
+  }
+}
